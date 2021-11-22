@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+## Michele, AI Master Degree student at Alma Mater Studiorum - Università di Bologna
 
 <!--
 **michimichiamo/michimichiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **prescriptive models** (with focus on COVID-19 pandemic)
+  - Exploiting Compartmental models and Artificial neural networks
+- 🌱 I’m currently learning [Empirical Model Learning](https://emlopt.github.io/)
+  - A decision-making hybrid approach that combines Machine Learning and Combinatorial Optimization
+- 💬 Ask me about my work!
+- 📫 How to reach me: [write me an email](mailto:michele.iannello@studio.unibo.it)
+- ⚡ Fun fact: I have a bachelor in Physics.
