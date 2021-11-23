@@ -29,8 +29,6 @@ Some of my favourite projects:
 ### Programming languages, frameworks and tools
 
 #### Main experience, everyday use
-
-<p>
   <a href="https://www.python.org/"><img alt="python" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
   <a href="https://jupyter.org/"><img alt="jupyter" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
   <a href="https://www.tensorflow.org/"><img alt="tensorflow" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
@@ -44,11 +42,8 @@ Some of my favourite projects:
   <a href="https://daringfireball.net/projects/markdown/"><img alt="markdown" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
   <a href="https://www.linux.org/"><img alt="linux" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
   <a href="https://github.com/"><img alt="github" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
-</p>
 
-#### Learned at university and used for some projects
-
-<p>  
+#### Learned at university and used to develop some projects
   <a href="https://www.scala-lang.org/"><img alt="scala" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" /></a>
   <a href="http://www.w3.org/2001/sw/"><img alt="W3C Semantic Web" height=60 src="https://user-images.githubusercontent.com/33673888/143017073-8f2a6143-ffa1-4cfa-8341-15d8afb0ef4d.png" /></a>
   <a href="https://www.openmp.org/"><img alt="openmp" height=40 src="https://www.openmp.org/wp-content/uploads/openmp-header-logo-100h.png" /></a>
@@ -56,17 +51,11 @@ Some of my favourite projects:
   <a href="https://www.minizinc.org/"><img alt="minizinc" height=60 src="https://www.minizinc.org/MiniZn_logo.png" /></a>
   <a href="https://github.com/Z3Prover/z3"><img alt="z3-prover" height=60 src="https://avatars.githubusercontent.com/u/11668813?s=200&v=4" /></a>
   <a href="https://www.swi-prolog.org/"><img alt="swi-prolog" height=60 src="https://aws1.discourse-cdn.com/free1/uploads/swiprolog/original/1X/73ebf150a3746e8f54f93423fb28d18c434847c9.png" height=60 /></a>
-</p>
-
 #### Mainly self-taught
-  
-<p>
   <a href="https://www.java.com/"><img alt="java" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
   <a href="https://html.spec.whatwg.org/multipage/"><img alt="html5" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
   <a href="https://www.w3.org/TR/CSS/"><img alt="css3" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
   <a href="https://sass-lang.com/"><img alt="sass" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
-</p>
-
 #### In progress...
 <p>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img alt="javascript" height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
