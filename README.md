@@ -4,6 +4,7 @@
 **michimichiamo/michimichiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+- 👨‍💼 I am an AI engineer and I work as NLP Data Scientist.
 - 📖 I recently graduated in Artificial Intelligence at [Alma Mater Studiorum - Università di Bologna](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 - 🔭 I worked on **predictive and prescriptive models** (with focus on COVID-19 pandemic) as part of my Master's Degree thesis work
   - Exploiting techniques integrating Deep Learning and Constrained Optimization
