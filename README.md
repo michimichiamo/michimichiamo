@@ -4,17 +4,17 @@
 **michimichiamo/michimichiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👨‍💼 I am an AI engineer and I work as NLP Data Scientist.
-- 📖 I recently graduated in Artificial Intelligence at [Alma Mater Studiorum - Università di Bologna](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
+- 👨‍💼 I am a Research Fellow at [Alma Mater Studiorum - Università di Bologna](https://www.unibo.it/).
+- 📖 I graduated in Physics (Bachelor Degree) and Artificial Intelligence (Master Degree) at [Alma Mater Studiorum - Università di Bologna](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 - 🔭 I worked on **predictive and prescriptive models** (with focus on COVID-19 pandemic) as part of my Master's Degree thesis work
   - Exploiting techniques integrating Deep Learning and Constrained Optimization
-  - Making use of Compartmental models, Lagrangian duality (optimization) and Artificial neural networks
-- 🌱 I’m currently learning [Empirical Model Learning](https://emlopt.github.io/)
-  - A decision-making hybrid approach that combines Machine Learning and Combinatorial Optimization
-- 💬 Ask me about my work!
+  - Making use of Compartmental models, Lagrangian duality (optimization), Artificial Neural Networks and [Empirical Model Learning](https://emlopt.github.io/)
+- 🌱 I’m currently working on (Physics-)Informed Machine Learning.
+  - I.e. combining Physics and Artificial Intelligence!
+- 💬 Ask me about my work:
   - You can find it all here on GitHub 👇
-- 📫 How to reach me: [write me an email](mailto:michele.iannello@studio.unibo.it)
-- ⚡ Fun fact: I have a bachelor in Physics and I like to play the guitar.
+- 📫 How to reach me: [write me an email](mailto:michele.iannello2@unibo.it)
+- ⚡ Fun fact: I was born on Feb 29th!
 
 ### Projects
 Check out my repositories to know what I'm working on!
