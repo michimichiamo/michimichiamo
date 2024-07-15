@@ -4,13 +4,12 @@
 **michimichiamo/michimichiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👨‍💼 I am a Research Fellow at [Alma Mater Studiorum - Università di Bologna](https://www.unibo.it/).
+- 👨‍💼 I am a Data Engineer at [XTEL](https://www.xtel-group.com/).
 - 📖 I graduated in Physics (Bachelor Degree) and Artificial Intelligence (Master Degree) at [Alma Mater Studiorum - Università di Bologna](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
 - 🔭 I worked on **predictive and prescriptive models** (with focus on COVID-19 pandemic) as part of my Master's Degree thesis work
   - Exploiting techniques integrating Deep Learning and Constrained Optimization
   - Making use of Compartmental models, Lagrangian duality (optimization), Artificial Neural Networks and [Empirical Model Learning](https://emlopt.github.io/)
-- 🌱 I’m currently working on (Physics-)Informed Machine Learning.
-  - I.e. combining Physics and Artificial Intelligence!
+- 🌱 I’m currently working on AI predictive models in the field of FMCG/CPG.
 - 💬 Ask me about my work:
   - You can find it all here on GitHub 👇
 - 📫 How to reach me: [write me an email](mailto:michele.iannello2@unibo.it)
